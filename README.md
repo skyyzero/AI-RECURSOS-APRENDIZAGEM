@@ -11,4 +11,4 @@
 
   4 - Introdução a segurança da informação - https://desecsecurity.com/curso/introducao-pentest
 
-  5 - 
+  5 - Linguagem SQL - https://www.amazon.com.br/Introdu%C3%A7%C3%A3o-Linguagem-SQL-Abordagem-Iniciantes/dp/8575225014
