@@ -7,6 +7,8 @@
   
   2 - Python para Analises de dados. - https://www.amazon.com.br/Python-Para-An%C3%A1lise-Dados-Tratamento/dp/8575226479
   
-  3 - Estatistica e Probabilidade - https://www.amazon.com.br/Estat%C3%ADstica-b%C3%A1sica-Luiz-Gonzaga-Morettin/dp/8576053705
+  3 - Estatistica e Probabilidade - https://www.amazon.com.br/Estat%C3%ADstica-Pr%C3%A1tica-Para-Cientistas-Dados/dp/855080603X
 
   4 - Introdução a segurança da informação - https://desecsecurity.com/curso/introducao-pentest
+
+  5 - 
