@@ -3,7 +3,8 @@
 
 
 # Basico
-  1 - Python.
+  1 - Python. - https://www.amazon.com.br/Python-Fluente-Programação-Concisa-Eficaz/dp/857522462X
   
-  2 - Python para Analises de dados.
+  2 - Python para Analises de dados. - https://www.amazon.com.br/Python-Para-An%C3%A1lise-Dados-Tratamento/dp/8575226479
   
+  3 - Estatistica e Probabilidade 
