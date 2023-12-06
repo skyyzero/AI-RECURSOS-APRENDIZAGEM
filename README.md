@@ -9,4 +9,4 @@
   
   3 - Estatistica e Probabilidade - https://www.amazon.com.br/Estat%C3%ADstica-b%C3%A1sica-Luiz-Gonzaga-Morettin/dp/8576053705
 
-  4 - Introduçao a segurança da informação - https://desecsecurity.com/curso/introducao-pentest
+  4 - Introdução a segurança da informação - https://desecsecurity.com/curso/introducao-pentest
